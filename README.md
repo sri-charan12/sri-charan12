@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Surya Sricharan</h1>
 <h3 align="center">🚀 Java Full-Stack Developer | 🌩️ Cloud Enthusiast | 👨‍💻 Open Source Contributor</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ### 💼 About Me
@@ -13,8 +9,8 @@
 - 🌱 Learning: **Microservices, CRM Tools, JWT Authentication, Testing Tools**
 - 💬 Ask me about:  
   `Java`, `Python`, `C`, `HTML`, `CSS`, `JavaScript`, `Tailwind CSS`, `MySQL`, `PostgreSQL`, `Spring Boot`, `Git`, `GitHub`, `AWS`, `Postman`, `SQL`
-- 📫 Reach me at: **youremail@gmail.com**
-- 📄 Resume / Portfolio: [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📫 Reach me at: **suryasricharan12@gmail.com**
+- 📄 Resume / Portfolio: [LinkedIn](https://www.linkedin.com/in/dasari-surya-sricharan-273a052a8/)
 
 ---
 
@@ -88,8 +84,8 @@
 ### 📬 Let’s Connect!
 
 <p align="center">
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>suryasricharan12@gmail.com</a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>https://www.linkedin.com/in/dasari-surya-sricharan-273a052a8/</a>
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 </p>
 
