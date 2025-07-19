@@ -1,50 +1,65 @@
 <h1 align="center">Hi 👋, I'm Surya Sricharan</h1>
-<h3 align="center">Aspiring Java Full-Stack Developer | Cloud & Backend Enthusiast | Open Source Contributor</h3>
+<h3 align="center">🚀 Java Full-Stack Developer | 🌩️ Cloud Enthusiast | 👨‍💻 Open Source Contributor</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
-
-- 🔭 I’m currently working on **TrainexAI: AI-Powered Fitness Platform**
-
-- 🌱 I’m currently learning **Microservices, CRM Tools, JWT Authentication, and Testing Tools**
-
-- 💬 Ask me about **Java, Python, C, HTML, CSS, JavaScript, Git, MySQL, SQL, PostgreSQL, Spring Boot, Tailwind CSS, Postman, and AWS**
-
-- 📫 How to reach me: **youremail@gmail.com**
-
-- 📄 View my resume: [LinkedIn](https://linkedin.com/in/yourprofile)
-
----
-
-## 🚀 Languages and Tools:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+### 💼 About Me
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+- 🔭 Currently working on **TrainexAI: AI-Powered Fitness Platform**
+- 🌱 Learning: **Microservices, CRM Tools, JWT Authentication, Testing Tools**
+- 💬 Ask me about:  
+  `Java`, `Python`, `C`, `HTML`, `CSS`, `JavaScript`, `Tailwind CSS`, `MySQL`, `PostgreSQL`, `Spring Boot`, `Git`, `GitHub`, `AWS`, `Postman`, `SQL`
+- 📫 Reach me at: **youremail@gmail.com**
+- 📄 Resume / Portfolio: [LinkedIn](https://linkedin.com/in/yourprofile)
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+#### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### 🔧 Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### 🛢️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+#### 🧪 Testing Tools
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" width="45%" />
 </p>
 
 ---
 
-## 🔥 Contribution Graph
+### 🌐 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=react-dark" />
@@ -52,43 +67,29 @@
 
 ---
 
-## 📌 Featured Projects
+### 📌 Featured Projects
 
-| Project | Description | Tech Stack | Links |
-|--------|-------------|------------|-------|
-| **TrainexAI** | AI-powered fitness tracking web app | Java, Spring Boot, React, Firebase | [GitHub](https://github.com/yourrepo) • [Live Demo](https://yourlink.com) |
-| **Wellsync** | Healthcare cloud web app with prescription reminders | HTML, CSS, JS, Node.js | [GitHub](https://github.com/yourrepo) |
-| **ByteBuy** | E-commerce web app with full-stack features | Java, Spring Boot, MySQL | [GitHub](https://github.com/yourrepo) |
-
----
-
-## ✨ Fun Stuff
-
-- 🎧 I love coding with music
-- 💪 I believe in **"Code it until you own it"**
-- 🔍 Passionate about solving real-world problems with technology
+| Project     | Description                                    | Tech Stack                     | Links                                      |
+|-------------|------------------------------------------------|--------------------------------|--------------------------------------------|
+| **TrainexAI** | AI-based fitness platform                      | Java, Spring Boot, React       | [GitHub](https://github.com/yourrepo) |
+| **Wellsync** | Healthcare app with prescription reminders     | HTML, JS, Node.js              | [GitHub](https://github.com/yourrepo) |
+| **ByteBuy**  | Cloud-based E-commerce full-stack web app      | Java, Spring Boot, MySQL       | [GitHub](https://github.com/yourrepo) |
 
 ---
 
-## 🧠 Currently Learning
+### ✨ Fun Facts
 
-- Microservices Architecture  
-- CRM Tools (like Salesforce or Zoho CRM)  
-- JWT Authentication  
-- Software Testing Tools (JUnit, Selenium, Postman testing, etc.)
+- 🎧 I code better with music
+- 💡 I love solving real-world problems with tech
+- 🌟 I believe in: **"Code it until you own it!"**
 
 ---
 
-## 📬 Connect with Me
+### 📬 Let’s Connect!
 
-<p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:youremail@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white"/>
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/-Portfolio-24292e?style=flat-square&logo=firefox&logoColor=white"/>
-  </a>
+<p align="center">
+  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 </p>
+
