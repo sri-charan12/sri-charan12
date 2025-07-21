@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Surya Sricharan</h1>
-<h3 align="center">🚀 Java Full-Stack Developer | 🌩️ Cloud Enthusiast | 👨‍💻 Open Source Contributor</h3>
+<h3 align="center">🚀 Aspiring Java Full-Stack Developer | 🌩️ Cloud Enthusiast | 👨‍💻 Open Source Contributor</h3>
 
 ---
 
@@ -69,7 +69,7 @@
 |-------------|------------------------------------------------|--------------------------------|--------------------------------------------|
 | **TrainexAI** | AI-based fitness platform                      | Java, Spring Boot, React       | [GitHub](https://github.com/yourrepo) |
 | **Wellsync** | Healthcare app with prescription reminders     | HTML, JS, Node.js              | [GitHub](https://github.com/yourrepo) |
-| **ByteBuy**  | Cloud-based E-commerce full-stack web app      | Java, Spring Boot, MySQL       | [GitHub](https://github.com/yourrepo) |
+| **ByteBuy**  | Cloud-based E-commerce full-stack web app      | TypeScript, Twailandcss, MySQL       | [GitHub](https://github.com/yourrepo) |
 
 ---
 
