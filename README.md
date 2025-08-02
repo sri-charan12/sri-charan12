@@ -13,7 +13,7 @@
 - 🌱 I’m focused on learning and mastering **Microservices, ORM Tools, JWT Authentication, and Testing Frameworks**.
 - 👯 I’m looking to collaborate on impactful **Open Source Projects**, especially in the Java ecosystem.
 - 💬 Ask me about **Core Java, Spring Boot, REST APIs, System Design**, or anything from my tech stack!
-- 📫 How to reach me: **suryasricharan143@gmail.com**
+- 📫 How to reach me: **suryasricharan12@gmail.com**
 
 <br>
 
@@ -129,13 +129,13 @@
 
 <h3 align="left">📈 My GitHub Stats</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=surya-sricharan&show_icons=true&locale=en&theme=dark&rank_icon=github" alt="surya-sricharan's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sri-charan12&show_icons=true&locale=en&theme=dark&rank_icon=github" alt="surya-sricharan's github stats" />
   &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=surya-sricharan&layout=compact&langs_count=7&theme=dark" alt="surya-sricharan's top languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sri-charan12&layout=compact&langs_count=7&theme=dark" alt="surya-sricharan's top languages" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=surya-sricharan&theme=dark" alt="surya-sricharan's contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sri-charan12&theme=dark" alt="surya-sricharan's contribution graph" />
 </p>
