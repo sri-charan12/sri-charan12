@@ -129,13 +129,13 @@
 
 <h3 align="left">📈 My GitHub Stats</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&locale=en&theme=dark&rank_icon=github" alt="demo github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=surya-sricharan&show_icons=true&locale=en&theme=dark&rank_icon=github" alt="surya-sricharan's github stats" />
   &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=7&theme=dark" alt="demo top languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=surya-sricharan&layout=compact&langs_count=7&theme=dark" alt="surya-sricharan's top languages" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuraghazra&theme=dark" alt="demo contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=surya-sricharan&theme=dark" alt="surya-sricharan's contribution graph" />
 </p>
