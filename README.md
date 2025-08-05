@@ -3,16 +3,16 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Surya Sricharan</h1>
-<h3 align="center">An Aspiring Java Full-Stack Developer | ☁️ Cloud Enthusiast | 🙋‍♂️ Open Source Contributor</h3>
+<h3 align="center">An Aspiring Full-Stack Developer | ☁️ Cloud Enthusiast | 🙋‍♂️ Open Source Contributor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya-sricharan&label=Profile%20views&color=0e75b6&style=flat" alt="surya-sricharan" /> </p>
 
 <br>
 
-- 🔭 I’m currently working on **TriaasAI**, an AI-Powered Telemedicine Platform.
+- 🔭 I’m currently working on **TrianexAI**, an AI-Powered webcam based Platform.
 - 🌱 I’m focused on learning and mastering **Microservices, ORM Tools, JWT Authentication, and Testing Frameworks**.
 - 👯 I’m looking to collaborate on impactful **Open Source Projects**, especially in the Java ecosystem.
-- 💬 Ask me about **Core Java, Spring Boot, REST APIs, System Design**, or anything from my tech stack!
+- 💬 Ask me about **Core Java, Spring Boot, REST APIs**, or anything from my tech stack!
 - 📫 How to reach me: **suryasricharan12@gmail.com**
 
 <br>
@@ -57,7 +57,6 @@
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/></a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="jira"/></a>
 </p>
 
 **Testing Tools:**
@@ -80,22 +79,16 @@
   </thead>
   <tbody>
     <tr>
-      <td><strong>Smart India Hackathon 2024</strong></td>
-      <td><em>Finalist</em></td>
+      <td><strong>Smart IIT bubhaneswar</strong></td>
+      <td><em>Atendee</em></td>
       <td><a href="LINK_TO_YOUR_PROJECT_REPO">AI-Powered Telemedicine Platform</a></td>
       <td>Mar 2024</td>
     </tr>
     <tr>
-      <td><strong>VIT-AP Codefest 2023</strong></td>
-      <td><em>Top 10 Finalist</em></td>
+      <td><strong>KL code for change</strong></td>
+      <td><em>Top 10 </em></td>
       <td><a href="LINK_TO_YOUR_PROJECT_REPO">Full-Stack Expense Tracker</a></td>
       <td>Oct 2023</td>
-    </tr>
-    <tr>
-      <td><strong>Google Cloud Community Day</strong></td>
-      <td><em>Attendee</em></td>
-      <td>-</td>
-      <td>Aug 2023</td>
     </tr>
   </tbody>
 </table>
