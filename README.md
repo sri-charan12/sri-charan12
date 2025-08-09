@@ -1,60 +1,85 @@
-<!-- Banner Section -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Hi%20there!%20I'm%20[Your%20Name]%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn)
+<!-- Animated Header -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there!%20I'm%20[Your%20Name]%20👋&fontSize=45&fontAlign=50&fontColor=fff&animation=fadeIn)
 
 <!-- Social Links -->
 <p align="center">
   <a href="[Your LinkedIn URL]"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="[Your GitHub URL]"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="[Your Instagram URL]"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="[Your Portfolio URL]"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" /></a>
   <a href="mailto:[Your Email]"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 👨‍💻 About Me  
-I’m **[Your Name]**, a passionate **BCA Honours student at KL University** with a love for technology, problem-solving, and continuous learning. I enjoy building projects, exploring new tools, and participating in hackathons. My journey in tech is fueled by curiosity and the drive to innovate.  
+## 👨‍💻 About Me  
+💡 **BCA Honours Student @ KL University**  
+🚀 Passionate about programming, development, and building creative solutions.  
+🏆 Hackathon enthusiast & open-source contributor.  
+📚 Always learning — currently exploring **[Your Current Focus, e.g., AI, Web3, Cloud]**.  
+🎯 Goal: **[Your Goal]**  
 
 ---
 
-## 🛠 My Favorite Tools & Technologies  
+## 🛠 My Favorite Tools & Technologies (3D Icons)  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,javascript,react,nodejs,bootstrap,tailwind,git,github,docker,linux,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,javascript,typescript,react,nodejs,express,bootstrap,tailwind,git,github,docker,linux,mysql,mongodb,postman,figma&theme=dark" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats & Activity  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourGitHubUsername]&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourGitHubUsername]&theme=radical&hide_border=true" height="170" />
 </p>
 
+<!-- Animated Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YourGitHubUsername]&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YourGitHubUsername]&theme=github-compact" />
 </p>
+
+<!-- Snake Animation -->
+![GitHub Snake Animation](https://github.com/[YourGitHubUsername]/[YourGitHubUsername]/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🏆 GitHub Profile Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[YourGitHubUsername]&theme=onedark&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=[YourGitHubUsername]&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
 
 ## 📜 Certifications  
-- Certification 1 — *Issuer*  
-- Certification 2 — *Issuer*  
-- Certification 3 — *Issuer*  
+- **[Certification Name]** — *[Issuer]* — `[Year]`  
+- **[Certification Name]** — *[Issuer]* — `[Year]`  
+- **[Certification Name]** — *[Issuer]* — `[Year]`  
 
 ---
 
-## 🚀 Hackathons & Projects  
-- **Project/Hackathon Name** — Short description of what you built.  
-- **Project/Hackathon Name** — Short description of what you built.  
-- **Project/Hackathon Name** — Short description of what you built.  
+## 🚀 Hackathons & Achievements  
+- 🥇 **[Hackathon Name]** — *[Project Name]* — Won `[Place]` place  
+- 💡 **[Hackathon Name]** — *[Project Name]* — Built `[Short Description]`  
+- 🎖 **[Achievement/Competition]** — `[Details]`  
+
+---
+
+## 📂 Featured Projects  
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[Project Name]** | Short project summary | Python, Flask, MySQL |
+| **[Project Name]** | Short project summary | React, Node.js, MongoDB |
+| **[Project Name]** | Short project summary | HTML, CSS, JS |
+
+---
+
+## 🔥 Fun Stats  
+- 💻 Total coding hours logged: `[WakaTime Stats Here]`  
+- 🌍 Countries where my code runs: `[Number]`  
+- 📅 Member since: `[Year]`  
 
 ---
 
 <!-- Footer -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
