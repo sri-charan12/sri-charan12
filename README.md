@@ -5,9 +5,8 @@
 <p align="center">
   <a href="[Your LinkedIn URL]"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="[Your GitHub URL]"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="[Your Instagram URL]"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="[Your Portfolio URL]"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" /></a>
-  <a href="mailto:[Your Email]"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:[suryasricharan12@gmail.com]"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -17,7 +16,7 @@
 🚀 Passionate about programming, development, and building creative solutions.  
 🏆 Hackathon enthusiast & open-source contributor.  
 📚 Always learning — currently exploring **[Your Current Focus, e.g., AI, Web3, Cloud]**.  
-🎯 Goal: **[Your Goal]**  
+🎯 Goal: **Aspiring Full stack developer**  
 
 ---
 
