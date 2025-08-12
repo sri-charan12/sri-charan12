@@ -1,5 +1,5 @@
 <!-- Animated Header -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there!%20I'm%20[Your%20dasari%20surya@20sricharan]%20👋&fontSize=45&fontAlign=50&fontColor=fff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there!%20I'm%20dasari%20surya%20sricharan👋&fontSize=45&fontAlign=50&fontColor=fff&animation=fadeIn)
 
 <!-- Social Links -->
 <p align="center">
