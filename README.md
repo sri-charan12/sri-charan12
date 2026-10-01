@@ -1,9 +1,9 @@
-<!-- ===================== HEADER ===================== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&animation=fadeIn" width="100%" alt="" />
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Dasari%20Surya%20Sricharan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Cloud%20%26%20DevOps%20Enthusiast%20%7C%20AI%20Explorer&descAlignY=60&descSize=18" width="100%" />
+<h1 align="center">Dasari Surya Sricharan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=MCA+Student+%40+KL+University+🎓;Building+Full-Stack+Web+Apps+💻;Java+%7C+Spring+Boot+%7C+React+☕;Cloud+%26+DevOps+Explorer+☁️;Turning+ideas+into+working+products+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=MCA+Student+%40+KL+University;Building+Full-Stack+Web+Apps;Java+%7C+Spring+Boot+%7C+React;Cloud+%26+DevOps+Explorer" alt="MCA Student | Full-Stack Developer | Cloud & DevOps" />
 </p>
 
 <p align="center">
@@ -14,55 +14,55 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sri-charan12&label=Profile%20Views&color=00d4ff&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=sri-charan12&label=Profile%20Views&color=00d4ff&style=flat-square" />
 </p>
 
----
+<br/>
 
-## 👨‍💻 About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:1b4458&height=56&section=header&text=ABOUT%20ME&fontSize=26&fontColor=00d4ff&fontAlign=50&fontAlignY=50" width="100%" alt="About Me" />
 
-I'm a **Master of Computer Applications (MCA)** student at **KL University, Vijayawada**, who loves building practical applications, exploring new technologies, and turning ideas into working products.
+```bash
+$ whoami
+surya-sricharan   # MCA student, KL University
 
-| | |
-|---|---|
-| 🎯 **Goal** | Software Engineer / Java Full-Stack Developer |
-| 🔭 **Building** | Full-stack apps with AI & ML features |
-| 📚 **Learning** | Spring Boot, DSA, System Design, Docker, CI/CD |
-| ☁️ **Exploring** | AWS, Cloud-native tools, DevOps |
-| 🏆 **Into** | Hackathons & technical competitions |
-| 📍 **Based in** | Vijayawada, Andhra Pradesh, India 🇮🇳 |
+$ cat goal.txt
+Software Engineer / Java Full-Stack Developer
 
----
+$ ls ./focus
+spring-boot/  react/  docker/  aws/  dsa/  ai-ml/
 
-## 🛠️ Tech Stack
+$ echo $STATUS
+Open to internships & collaborations _
+```
 
-**💻 Languages**
+<br/>
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,typescript" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:1b4458&height=56&section=header&text=TECH%20STACK&fontSize=26&fontColor=00d4ff&fontAlign=50&fontAlignY=50" width="100%" alt="Tech Stack" />
 
-**🌐 Frontend**
+<table align="center">
+  <tr>
+    <td align="center" width="50%"><b>💻 Languages</b><br/><br/><img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,typescript" /></td>
+    <td align="center" width="50%"><b>🌐 Frontend</b><br/><br/><img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>⚙️ Backend</b><br/><br/><img src="https://skillicons.dev/icons?i=java,spring,python,flask,nodejs" /></td>
+    <td align="center"><b>🗄️ Databases</b><br/><br/><img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>☁️ Cloud & DevOps</b><br/><br/><img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" /></td>
+    <td align="center"><b>🔧 Tools</b><br/><br/><img src="https://skillicons.dev/icons?i=vscode,postman,figma" /></td>
+  </tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind" />
+<br/>
 
-**⚙️ Backend**
-
-<img src="https://skillicons.dev/icons?i=java,spring,python,flask,nodejs" />
-
-**🗄️ Databases**
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
-
-**☁️ Cloud & DevOps**
-
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
-
-**🔧 Tools**
-
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
-
----
-
-## 🚀 Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:1b4458&height=56&section=header&text=FEATURED%20PROJECTS&fontSize=26&fontColor=00d4ff&fontAlign=50&fontAlignY=50" width="100%" alt="Featured Projects" />
 
 <table>
   <tr>
@@ -75,7 +75,7 @@ I'm a **Master of Computer Applications (MCA)** student at **KL University, Vija
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
-      <a href="https://github.com/sri-charan12/Wellsync">🔗 View Repository</a>
+      <a href="https://github.com/sri-charan12/Wellsync"><img src="https://img.shields.io/badge/View_Repo-00D4FF?style=for-the-badge&logo=github&logoColor=black" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🏋️ TrainexAI</h3>
@@ -86,7 +86,7 @@ I'm a **Master of Computer Applications (MCA)** student at **KL University, Vija
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
-      <a href="https://github.com/sri-charan12/TrainexAI">🔗 View Repository</a>
+      <a href="https://github.com/sri-charan12/TrainexAI"><img src="https://img.shields.io/badge/View_Repo-00D4FF?style=for-the-badge&logo=github&logoColor=black" /></a>
     </td>
   </tr>
   <tr>
@@ -99,7 +99,7 @@ I'm a **Master of Computer Applications (MCA)** student at **KL University, Vija
         <img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white" />
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
       </p>
-      <a href="https://github.com/sri-charan12/edupredict">🔗 View Repository</a>
+      <a href="https://github.com/sri-charan12/edupredict"><img src="https://img.shields.io/badge/View_Repo-00D4FF?style=for-the-badge&logo=github&logoColor=black" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🛒 BigByte</h3>
@@ -110,14 +110,14 @@ I'm a **Master of Computer Applications (MCA)** student at **KL University, Vija
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       </p>
-      <a href="https://github.com/sri-charan12/bigbyte-blue-waves">🔗 View Repository</a>
+      <a href="https://github.com/sri-charan12/bigbyte-blue-waves"><img src="https://img.shields.io/badge/View_Repo-00D4FF?style=for-the-badge&logo=github&logoColor=black" /></a>
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-## 💼 Experience
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:1b4458&height=56&section=header&text=EXPERIENCE&fontSize=26&fontColor=00d4ff&fontAlign=50&fontAlignY=50" width="100%" alt="Experience" />
 
 ### ☁️ AWS Cloud Computing – DevOps Intern
 **APSSDC — Government of Andhra Pradesh** &nbsp;|&nbsp; 📅 May 2025 – July 2025
@@ -126,19 +126,19 @@ I'm a **Master of Computer Applications (MCA)** student at **KL University, Vija
 - 🔁 DevOps practices, CI/CD concepts and deployment pipelines
 - 🧰 Hands-on with cloud-native tools
 
----
+<br/>
 
-## 🏆 Hackathons
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:1b4458&height=56&section=header&text=HACKATHONS&fontSize=26&fontColor=00d4ff&fontAlign=50&fontAlignY=50" width="100%" alt="Hackathons" />
 
 | Event | Where | Focus |
 |---|---|---|
 | 🚀 **Code4Change** | KL University, Vijayawada | Tech solutions for real-world community problems |
-| 🔥 **PRAVAAH '25** | IIT Bhubaneswar | National level — rapid prototyping, teamwork, pitching |
+| 🔥 **PRAVAAH '25** | IIT Bhubaneswar | National level: rapid prototyping, teamwork, pitching |
 | 🤖 **AI Vibe Coding Hackathon** | SRM University Ramapuram, Chennai | AI-assisted development & fast prototyping |
 
----
+<br/>
 
-## 📜 Certifications
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:1b4458&height=56&section=header&text=CERTIFICATIONS&fontSize=26&fontColor=00d4ff&fontAlign=50&fontAlignY=50" width="100%" alt="Certifications" />
 
 <table>
   <tr>
@@ -160,31 +160,19 @@ I'm a **Master of Computer Applications (MCA)** student at **KL University, Vija
   </tr>
 </table>
 
----
+<br/>
 
-## 📚 Currently Learning
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:1b4458&height=56&section=header&text=CURRENTLY%20LEARNING&fontSize=26&fontColor=00d4ff&fontAlign=50&fontAlignY=50" width="100%" alt="Currently Learning" />
 
-<details open>
-<summary><b>☕ Java & Spring Boot</b></summary>
+| Track | Topics |
+|---|---|
+| ☕ **Java & Spring Boot** | `OOP` `Collections` `Exception Handling` `Multithreading` `DSA` `REST APIs` `Spring MVC` `Spring Data JPA` `MySQL` |
+| 🌐 **Frontend** | `HTML` `CSS` `JavaScript` `React` |
+| 🚀 **DevOps** | `Git & GitHub` `Docker` `CI/CD` `Cloud Computing` |
 
-`OOP` `Collections` `Exception Handling` `Multithreading` `DSA` `REST APIs` `Spring MVC` `Spring Data JPA` `MySQL Integration`
-</details>
+<br/>
 
-<details open>
-<summary><b>🌐 Frontend</b></summary>
-
-`HTML` `CSS` `JavaScript` `React`
-</details>
-
-<details open>
-<summary><b>🚀 DevOps</b></summary>
-
-`Git & GitHub` `Docker` `CI/CD` `Cloud Computing`
-</details>
-
----
-
-## 📊 GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:1b4458&height=56&section=header&text=GITHUB%20STATS&fontSize=26&fontColor=00d4ff&fontAlign=50&fontAlignY=50" width="100%" alt="GitHub Stats" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sri-charan12&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" />
@@ -203,22 +191,16 @@ I'm a **Master of Computer Applications (MCA)** student at **KL University, Vija
   <img src="https://raw.githubusercontent.com/sri-charan12/sri-charan12/output/github-contribution-grid-snake.svg" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sri-charan12&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
-</p>
+<br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:1b4458&height=56&section=header&text=LET%27S%20CONNECT&fontSize=26&fontColor=00d4ff&fontAlign=50&fontAlignY=50" width="100%" alt="Let's Connect" />
 
-## 🤝 Let's Connect
-
-I'm open to **internships, collaborations and full-stack opportunities**. Feel free to reach out!
+<p align="center">Open to <b>internships, collaborations and full-stack opportunities</b>. Reach out anytime!</p>
 
 <p align="center">
-  <a href="https://sri-charan12.github.io/"><img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://sri-charan12.github.io/"><img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
   <a href="https://www.linkedin.com/in/dasari-surya-sricharan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:suryasricharan12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>⭐ If you like my work, drop a star on a repo!</i></p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="" />
