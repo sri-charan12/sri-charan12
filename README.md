@@ -1,272 +1,207 @@
 <!-- ===================== HEADER ===================== -->
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there!%20I'm%20Surya%20Sricharan%20👋&fontSize=42&fontAlign=50&fontColor=fff&animation=fadeIn)
-
-<!-- ===================== INTRO ===================== -->
-
-<h1 align="center">Hi 👋, I'm Dasari Surya Sricharan</h1>
-
-<h3 align="center">
-MCA Student @ KL University | Aspiring Software Engineer | Full-Stack Developer
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Dasari%20Surya%20Sricharan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Cloud%20%26%20DevOps%20Enthusiast%20%7C%20AI%20Explorer&descAlignY=60&descSize=18" width="100%" />
 
 <p align="center">
-  <a href="https://sri-charan12.github.io/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-000000?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/sri-charan12">
-    <img src="https://img.shields.io/badge/GitHub-sri--charan12-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/dasari-surya-sricharan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:suryasricharan12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=MCA+Student+%40+KL+University+🎓;Building+Full-Stack+Web+Apps+💻;Java+%7C+Spring+Boot+%7C+React+☕;Cloud+%26+DevOps+Explorer+☁️;Turning+ideas+into+working+products+🚀" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://sri-charan12.github.io/"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit-00D4FF?style=for-the-badge&labelColor=0f2027" /></a>
+  <a href="https://github.com/sri-charan12"><img src="https://img.shields.io/badge/GitHub-sri--charan12-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/dasari-surya-sricharan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:suryasricharan12@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sri-charan12&label=Profile%20Views&color=00d4ff&style=for-the-badge" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Surya Sricharan**, a passionate technology learner and software development enthusiast currently pursuing my **Master of Computer Applications (MCA) at KL University**.
+I'm a **Master of Computer Applications (MCA)** student at **KL University, Vijayawada**, who loves building practical applications, exploring new technologies, and turning ideas into working products.
 
-I enjoy building practical applications, exploring new technologies, solving programming problems, and turning ideas into working products.
-
-### 🚀 What I Do
-
-- 💻 Build full-stack web applications
-- ☕ Develop applications using **Java & Spring Boot**
-- ⚛️ Create modern frontend experiences using **React**
-- 🗄️ Work with **MySQL, MongoDB & SQLite**
-- 🐍 Build backend applications using **Python & Flask**
-- ☁️ Explore **Cloud Computing & DevOps**
-- 🐳 Learn and work with **Docker**
-- 🤖 Explore **AI, Machine Learning & emerging technologies**
-- 🏆 Participate in hackathons and technical competitions
-
-### 🎯 Current Goal
-
-> **Aspiring Software Engineer / Full-Stack Developer**
-
-I'm currently focusing on strengthening my **Java Full-Stack development skills**, backend development, problem solving, system design fundamentals, and cloud technologies.
-
----
-
-## 🎓 Education
-
-### 🎓 Master of Computer Applications (MCA)
-**KL University**
-
-📍 Vijayawada, Andhra Pradesh, India
-
-Currently Pursuing
+| | |
+|---|---|
+| 🎯 **Goal** | Software Engineer / Java Full-Stack Developer |
+| 🔭 **Building** | Full-stack apps with AI & ML features |
+| 📚 **Learning** | Spring Boot, DSA, System Design, Docker, CI/CD |
+| ☁️ **Exploring** | AWS, Cloud-native tools, DevOps |
+| 🏆 **Into** | Hackathons & technical competitions |
+| 📍 **Based in** | Vijayawada, Andhra Pradesh, India 🇮🇳 |
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+**💻 Languages**
 
-<p>
 <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,typescript" />
-</p>
 
-### 🌐 Frontend Development
+**🌐 Frontend**
 
-<p>
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind" />
-</p>
 
-### ⚙️ Backend Development
+**⚙️ Backend**
 
-<p>
 <img src="https://skillicons.dev/icons?i=java,spring,python,flask,nodejs" />
-</p>
 
-### 🗄️ Databases
+**🗄️ Databases**
 
-<p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
-</p>
 
-### ☁️ Cloud & DevOps
+**☁️ Cloud & DevOps**
 
-<p>
 <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
-</p>
 
-### 🔧 Tools
+**🔧 Tools**
 
-<p>
 <img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
-</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏥 WellSync — Healthcare Web Application
-
-A healthcare web platform designed to help users manage health-related information, reports, prescriptions, and personalized recommendations.
-
-**Tech Stack:**
-
-`HTML` `CSS` `JavaScript` `Python` `Flask` `MongoDB`
-
-🔗 **Repository:**  
-https://github.com/sri-charan12/Wellsync
-
----
-
-### 🏋️ TrainexAI — AI Fitness Platform
-
-An AI-inspired fitness web application that provides personalized workout and diet recommendations based on user inputs.
-
-The platform includes features such as fitness planning, AI-based recommendations, sports information, supplements, profile management, and more.
-
-**Tech Stack:**
-
-`HTML` `CSS` `JavaScript` `Python` `Flask` `MongoDB`
-
-🔗 **Repository:**  
-https://github.com/sri-charan12/TrainexAI
-
----
-
-### 🎓 EduPredict — Student Dropout Early Warning System
-
-A machine-learning-based web application designed to identify students who may be at risk of dropping out.
-
-The system analyzes academic, attendance, behavioral, and socioeconomic information to classify student risk levels and provide an early-warning dashboard.
-
-**Tech Stack:**
-
-`Python` `Flask` `Machine Learning` `SQLite` `HTML` `CSS` `JavaScript`
-
-🔗 **Repository:**  
-https://github.com/sri-charan12/edupredict
-
----
-
-### 🛒 BigByte — E-Commerce Web Application
-
-A responsive e-commerce application featuring product browsing, shopping cart management, checkout functionality, and database integration for products and orders.
-
-**Tech Stack:**
-
-`HTML` `CSS` `JavaScript` `MySQL`
-
-🔗 **Repository:**  
-https://github.com/sri-charan12/bigbyte-blue-waves
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 WellSync</h3>
+      <p>Healthcare platform to manage health information, reports, prescriptions and personalized recommendations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+      <a href="https://github.com/sri-charan12/Wellsync">🔗 View Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏋️ TrainexAI</h3>
+      <p>AI-inspired fitness app with personalized workout & diet recommendations, supplements, sports info and profile management.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+      <a href="https://github.com/sri-charan12/TrainexAI">🔗 View Repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 EduPredict</h3>
+      <p>ML-based early-warning system that analyzes academic, attendance, behavioral and socioeconomic data to flag students at risk of dropping out.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+      </p>
+      <a href="https://github.com/sri-charan12/edupredict">🔗 View Repository</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 BigByte</h3>
+      <p>Responsive e-commerce app with product browsing, cart management, checkout and database-backed orders.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+      <a href="https://github.com/sri-charan12/bigbyte-blue-waves">🔗 View Repository</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🏆 Hackathons & Competitions
-
-### 🚀 Code4Change Hackathon
-**KL University, Vijayawada**
-
-Participated in a social-impact hackathon focused on developing technology solutions for real-world community problems.
-
----
-
-### 🔥 PRAVAAH '25
-**IIT Bhubaneswar**
-
-Participated in the national-level PRAVAAH '25 hackathon, gaining experience in rapid prototyping, teamwork, presentation, and problem solving.
-
----
-
-### 🤖 AI Vibe Coding Hackathon
-**SRM University Ramapuram, Chennai**
-
-Participated in an AI-focused hackathon exploring AI-assisted development and rapid product prototyping.
-
----
-
-## 💼 Internship Experience
+## 💼 Experience
 
 ### ☁️ AWS Cloud Computing – DevOps Intern
+**APSSDC — Government of Andhra Pradesh** &nbsp;|&nbsp; 📅 May 2025 – July 2025
 
-**APSSDC — Government of Andhra Pradesh**
+- ☁️ AWS Cloud Computing fundamentals & cloud infrastructure
+- 🔁 DevOps practices, CI/CD concepts and deployment pipelines
+- 🧰 Hands-on with cloud-native tools
 
-📅 May 2025 – July 2025
+---
 
-Completed a structured summer internship focused on:
+## 🏆 Hackathons
 
-- AWS Cloud Computing fundamentals
-- Cloud infrastructure
-- DevOps practices
-- CI/CD concepts
-- Deployment pipelines
-- Cloud-native tools
+| Event | Where | Focus |
+|---|---|---|
+| 🚀 **Code4Change** | KL University, Vijayawada | Tech solutions for real-world community problems |
+| 🔥 **PRAVAAH '25** | IIT Bhubaneswar | National level — rapid prototyping, teamwork, pitching |
+| 🤖 **AI Vibe Coding Hackathon** | SRM University Ramapuram, Chennai | AI-assisted development & fast prototyping |
 
 ---
 
 ## 📜 Certifications
 
-### 🟦 Salesforce
-**AI Associate**
-
-Focused on Salesforce Einstein AI, ethical AI, CRM data strategy, and AI-powered business use cases.
-
----
-
-### ☁️ Aviatrix
-**Multicloud Network Associate**
-
-Covered multicloud networking fundamentals across:
-
-- AWS
-- Microsoft Azure
-- Google Cloud
-- Network security
-- Transit architecture
-- Network segmentation
-
----
-
-### ☁️ Oracle
-**OCI Foundations Associate**
-
-Covered:
-
-- Oracle Cloud Infrastructure
-- Compute
-- Storage
-- Networking
-- IAM
-- Cloud security fundamentals
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>🟦 Salesforce</h3>
+      <b>AI Associate</b><br/>
+      <sub>Einstein AI, ethical AI, CRM data strategy</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>☁️ Aviatrix</h3>
+      <b>Multicloud Network Associate</b><br/>
+      <sub>AWS, Azure, GCP networking & security</sub>
+    </td>
+    <td align="center" width="33%">
+      <h3>🔴 Oracle</h3>
+      <b>OCI Foundations Associate</b><br/>
+      <sub>Compute, storage, networking, IAM</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Statistics
+## 📚 Currently Learning
+
+<details open>
+<summary><b>☕ Java & Spring Boot</b></summary>
+
+`OOP` `Collections` `Exception Handling` `Multithreading` `DSA` `REST APIs` `Spring MVC` `Spring Data JPA` `MySQL Integration`
+</details>
+
+<details open>
+<summary><b>🌐 Frontend</b></summary>
+
+`HTML` `CSS` `JavaScript` `React`
+</details>
+
+<details open>
+<summary><b>🚀 DevOps</b></summary>
+
+`Git & GitHub` `Docker` `CI/CD` `Cloud Computing`
+</details>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sri-charan12&show_icons=true&theme=radical&hide_border=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sri-charan12&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sri-charan12&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sri-charan12&layout=compact&theme=radical&hide_border=true" height="170" />
 </p>
-
----
-
-## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sri-charan12&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sri-charan12&theme=radical&hide_border=true" />
 </p>
 
----
-
-## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sri-charan12&theme=react-dark&hide_border=true&area=true" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sri-charan12/sri-charan12/output/github-contribution-grid-snake.svg" />
 </p>
-
----
-
-## 🏆 GitHub Profile Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sri-charan12&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
@@ -274,45 +209,16 @@ Covered:
 
 ---
 
-## 💡 Areas of Interest
+## 🤝 Let's Connect
 
-- ☕ Java Full-Stack Development
-- 🌐 Web Application Development
-- ⚙️ Backend Engineering
-- 🗄️ Database Management
-- ☁️ Cloud Computing
-- 🚀 DevOps
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 🔐 Software Engineering
-- 🏆 Hackathons & Innovation
+I'm open to **internships, collaborations and full-stack opportunities**. Feel free to reach out!
 
----
+<p align="center">
+  <a href="https://sri-charan12.github.io/"><img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dasari-surya-sricharan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:suryasricharan12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-## 📚 Currently Learning
+<p align="center"><i>⭐ If you like my work, drop a star on a repo!</i></p>
 
-```text
-Java
- ├── OOP
- ├── Collections
- ├── Exception Handling
- ├── Multithreading
- └── DSA
-
-Spring Boot
- ├── REST APIs
- ├── Spring MVC
- ├── Spring Data JPA
- └── MySQL Integration
-
-Frontend
- ├── HTML
- ├── CSS
- ├── JavaScript
- └── React
-
-DevOps
- ├── Git & GitHub
- ├── Docker
- ├── CI/CD
- └── Cloud Computing
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
