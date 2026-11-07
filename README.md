@@ -3,7 +3,7 @@
 <h1 align="center">Dasari Surya Sricharan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=MCA+Student+%40+KL+University;Building+Full-Stack+Web+Apps;Java+%7C+Spring+Boot+%7C+React;Cloud+%26+DevOps+Explorer" alt="MCA Student | Full-Stack Developer | Cloud & DevOps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=MCA+Student+%40+KL+University;Building+Full-Stack+Web+Apps;   Python+%7C+Spring+Boot+%7C+React;Cloud+%26+DevOps+Explorer" alt="MCA Student | Full-Stack Developer | AI Enthusiastic" />
 </p>
 
 <p align="center">
