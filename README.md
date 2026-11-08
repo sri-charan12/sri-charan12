@@ -195,7 +195,10 @@ Open to internships & collaborations _
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sri-charan12&theme=react-dark&hide_border=true&area=true" width="100%" />
 </p>
-
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=sri-charan12&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sri-charan12&layout=compact&theme=tokyonight" />
+</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/sri-charan12/sri-charan12/output/github-contribution-grid-snake.svg" />
 </p>
