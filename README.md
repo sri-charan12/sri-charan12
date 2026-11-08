@@ -3,7 +3,7 @@
 <h1 align="center">Dasari Surya Sricharan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=MCA+Student+%40+KL+University;Building+Full-Stack+Web+Apps;   Python+%7C+Spring+Boot+%7C+React;Cloud+%26+DevOps+Explorer" alt="MCA Student | Full-Stack Developer | AI Enthusiastic" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=MCA+Student+%40+KL+University;Python+Full-Stack+Developer;Building+AI-Driven+Web+Apps;Flask+%7C+REST+APIs+%7C+Machine+Learning;Cloud+%26+DevOps+Explorer" alt="MCA Student | Python Full-Stack Developer | AI-Driven Web Apps" />
 </p>
 
 <p align="center">
@@ -14,10 +14,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=sri-charan12&label=Profile%20Views&color=00d4ff&style=flat-square" />
@@ -31,11 +32,16 @@
 $ whoami
 surya-sricharan   # MCA student, KL University
 
+$ cat about.txt
+Python full-stack developer focused on AI-driven applications.
+Built WellSync, EduPredict and TrainexAI with Python, Flask,
+REST APIs and MongoDB. Led teams in 3 national-level hackathons.
+
 $ cat goal.txt
-Software Engineer / Java Full-Stack Developer
+AI / Full-Stack Developer
 
 $ ls ./focus
-spring-boot/  react/  docker/  aws/  dsa/  ai-ml/
+python/  flask/  ai-ml/  rest-apis/  react/  docker/  aws/
 
 $ echo $STATUS
 Open to internships & collaborations _
@@ -47,16 +53,19 @@ Open to internships & collaborations _
 
 <table align="center">
   <tr>
-    <td align="center" width="50%"><b>💻 Languages</b><br/><br/><img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,typescript" /></td>
-    <td align="center" width="50%"><b>🌐 Frontend</b><br/><br/><img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind" /></td>
+    <td align="center" width="50%"><b>💻 Languages</b><br/><br/><img src="https://skillicons.dev/icons?i=python,javascript,typescript" /></td>
+    <td align="center" width="50%"><b>🌐 Frontend</b><br/><br/><img src="https://skillicons.dev/icons?i=html,css,react,tailwind" /></td>
   </tr>
   <tr>
-    <td align="center"><b>⚙️ Backend</b><br/><br/><img src="https://skillicons.dev/icons?i=java,spring,python,flask,nodejs" /></td>
+    <td align="center"><b>⚙️ Backend</b><br/><br/><img src="https://skillicons.dev/icons?i=python,flask" /></td>
+    <td align="center"><b>🤖 AI / ML</b><br/><br/><img src="https://skillicons.dev/icons?i=python,sklearn" /></td>
+  </tr>
+  <tr>
     <td align="center"><b>🗄️ Databases</b><br/><br/><img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" /></td>
+    <td align="center"><b>☁️ Cloud & DevOps</b><br/><br/><img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" /></td>
   </tr>
   <tr>
-    <td align="center"><b>☁️ Cloud & DevOps</b><br/><br/><img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" /></td>
-    <td align="center"><b>🔧 Tools</b><br/><br/><img src="https://skillicons.dev/icons?i=vscode,postman,figma" /></td>
+    <td align="center" colspan="2"><b>🔧 Tools</b><br/><br/><img src="https://skillicons.dev/icons?i=vscode,postman,figma" /></td>
   </tr>
 </table>
 
@@ -68,7 +77,7 @@ Open to internships & collaborations _
   <tr>
     <td width="50%" valign="top">
       <h3>🏥 WellSync</h3>
-      <p>Healthcare platform to manage health information, reports, prescriptions and personalized recommendations.</p>
+      <p>Healthcare platform for doctors to manage prescriptions, diet plans and patient records, with AI-powered medication reminders.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
@@ -119,12 +128,12 @@ Open to internships & collaborations _
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:1b4458&height=56&section=header&text=EXPERIENCE&fontSize=26&fontColor=00d4ff&fontAlign=50&fontAlignY=50" width="100%" alt="Experience" />
 
-### ☁️ AWS Cloud Computing – DevOps Intern
-**APSSDC — Government of Andhra Pradesh** &nbsp;|&nbsp; 📅 May 2025 – July 2025
+### ☁️ Internship & Job Preparation Training – APSSDC
+**Andhra Pradesh State Skill Development Corporation** &nbsp;|&nbsp; 📅 May 2025 – July 2025 &nbsp;|&nbsp; Remote
 
-- ☁️ AWS Cloud Computing fundamentals & cloud infrastructure
-- 🔁 DevOps practices, CI/CD concepts and deployment pipelines
-- 🧰 Hands-on with cloud-native tools
+- ☁️ Cloud infrastructure labs on AWS: EC2, S3 and IAM
+- 🔁 CI/CD pipelines and DevOps workflows
+- 🔌 Built and tested RESTful API-connected web modules
 
 <br/>
 
@@ -132,9 +141,9 @@ Open to internships & collaborations _
 
 | Event | Where | Focus |
 |---|---|---|
-| 🚀 **Code4Change** | KL University, Vijayawada | Tech solutions for real-world community problems |
-| 🔥 **PRAVAAH '25** | IIT Bhubaneswar | National level: rapid prototyping, teamwork, pitching |
-| 🤖 **AI Vibe Coding Hackathon** | SRM University Ramapuram, Chennai | AI-assisted development & fast prototyping |
+| 🚀 **Code4Change** | KL University, Vijayawada | Led a 4-member team: full-stack solution for a social-impact problem in 24 hours |
+| 🔥 **PRAVAAH '25** | IIT Bhubaneswar | National level, 100+ teams: rapid prototyping, teamwork, pitching |
+| 🤖 **AI Vibe Coding Hackathon** | SRM University Ramapuram, Chennai | AI-assisted web app built with Python, Flask and REST APIs |
 
 <br/>
 
@@ -144,17 +153,17 @@ Open to internships & collaborations _
   <tr>
     <td align="center" width="33%">
       <h3>🟦 Salesforce</h3>
-      <b>AI Associate</b><br/>
+      <b><a href="https://drive.google.com/file/d/1Com86c3JRm6QHF1LzJFKwHp-FoZKJlJW/view">AI Associate</a></b><br/>
       <sub>Einstein AI, ethical AI, CRM data strategy</sub>
     </td>
     <td align="center" width="33%">
       <h3>☁️ Aviatrix</h3>
-      <b>Multicloud Network Associate</b><br/>
+      <b><a href="https://www.credly.com/badges/05bcb800-f6d7-4cb8-a234-69fe9c351751/public_url">Multicloud Network Associate</a></b><br/>
       <sub>AWS, Azure, GCP networking & security</sub>
     </td>
     <td align="center" width="33%">
       <h3>🔴 Oracle</h3>
-      <b>OCI Foundations Associate</b><br/>
+      <b><a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=274CF1EC0F37902FA68EDCD96BD13205840A26C7D6B1340D7162578CC20ADB7F">OCI Foundations Associate</a></b><br/>
       <sub>Compute, storage, networking, IAM</sub>
     </td>
   </tr>
@@ -166,8 +175,8 @@ Open to internships & collaborations _
 
 | Track | Topics |
 |---|---|
-| ☕ **Java & Spring Boot** | `OOP` `Collections` `Exception Handling` `Multithreading` `DSA` `REST APIs` `Spring MVC` `Spring Data JPA` `MySQL` |
-| 🌐 **Frontend** | `HTML` `CSS` `JavaScript` `React` |
+| 🤖 **Python & AI** | `Python` `Machine Learning` `scikit-learn` `Flask` `REST APIs` `AI Integrations` |
+| 🌐 **Full-Stack** | `HTML` `CSS` `JavaScript` `React` `MongoDB` `MySQL` |
 | 🚀 **DevOps** | `Git & GitHub` `Docker` `CI/CD` `Cloud Computing` |
 
 <br/>
@@ -195,7 +204,7 @@ Open to internships & collaborations _
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:1b4458&height=56&section=header&text=LET%27S%20CONNECT&fontSize=26&fontColor=00d4ff&fontAlign=50&fontAlignY=50" width="100%" alt="Let's Connect" />
 
-<p align="center">Open to <b>internships, collaborations and full-stack opportunities</b>. Reach out anytime!</p>
+<p align="center">Open to <b>internships, collaborations and AI / full-stack opportunities</b>. Reach out anytime!</p>
 
 <p align="center">
   <a href="https://sri-charan12.github.io/"><img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
