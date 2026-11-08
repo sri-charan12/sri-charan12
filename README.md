@@ -192,10 +192,6 @@ Open to internships & collaborations _
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sri-charan12&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sri-charan12/sri-charan12/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:1b4458&height=56&section=header&text=LET%27S%20CONNECT&fontSize=26&fontColor=00d4ff&fontAlign=50&fontAlignY=50" width="100%" alt="Let's Connect" />
